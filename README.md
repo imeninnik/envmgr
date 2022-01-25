@@ -1,6 +1,6 @@
 
 ```javascript
-
+import {envmgr, r} from "envmgr2";
 
 /**
  * usual case
