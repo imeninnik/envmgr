@@ -1,4 +1,4 @@
-import { envmgr, r } from 'envmgr';
+import { envmgr, r } from 'envmgr2';
 /**
  * Usage
  * Add your variable under some of main groups `General`, `Databases`, etc...
