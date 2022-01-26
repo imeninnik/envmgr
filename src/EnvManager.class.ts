@@ -10,7 +10,7 @@ interface IRegisterEnvOutput {
 
 const defaultSettings:ISettings = {
   compact: true,
-  envListFileName: 'ENV.list.ts',
+  envListFileName: 'ENV.list',
   envOutputFileName: '.env',
   path: process.cwd(),
   noComments: false,

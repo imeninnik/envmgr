@@ -4,7 +4,7 @@ exports.r = exports.EnvManager = void 0;
 const EnvBuilder_class_1 = require("./EnvBuilder.class");
 const defaultSettings = {
     compact: true,
-    envListFileName: 'ENV.list.ts',
+    envListFileName: 'ENV.list',
     envOutputFileName: '.env',
     path: process.cwd(),
     noComments: false,
